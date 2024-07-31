@@ -15,12 +15,12 @@ nav_order: 2
 1. TOC
 {:toc}
 
-[ed]: https://edstem.org/us/join/zk8hRm
-[gradescope]: https://www.gradescope.com/courses/698219
-[github]: https://github.com/dsc-courses/dsc80-2024-sp
-[welcome-survey]: https://forms.gle/zSYRnDK7wNUWehPh8
-[exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
-[extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9
+[ed]: https://edstem.org/us/join/4h4tbM
+[gradescope]: https://www.gradescope.com/courses/813901
+[github]: https://github.com/dsc-courses/dsc80-2024-ss2
+<!-- [welcome-survey]: https://forms.gle/zSYRnDK7wNUWehPh8 -->
+<!-- [exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5 -->
+<!-- [extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9 -->
 
 ## About 🧐
 
@@ -109,9 +109,8 @@ post instead.**
 
 ### Lectures
 
-Lectures will be held in-person on Tuesdays and Thursdays from 9:30-10:50AM
-(A00) and 11:00AM-12:20PM (B00) in <a
-href="https://map.concept3d.com/?id=1005#!m/237174">Peterson Hall</a> 103.
+Lectures will be held in-person on Tuesdays and Thursdays from 5:00-7:50PM in <a
+href="https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?s/PCYNH_Main">Pepper Canyon Hall</a> 120.
 Lectures will be podcasted.
 
 **New**{: .label .label-green } In the Welcome Survey at the start of the
@@ -121,8 +120,8 @@ overall grade. If you choose to opt out, attendance will be worth 0%, and your
 midterm and final exam grade will each be worth 2.5% more. To receive lecture
 attendance for a given week, you must attend and participate in the in-lecture
 activities for both lectures that week. You will receive full credit for lecture
-attendance for the quarter if you attend at least 8 weeks of lecture during the
-10 week quarter.
+attendance for the quarter if you attend at least 4 weeks of lecture during the
+5 week quarter.
 
 Lecture notebooks will be your main resource in this class. You can access them,
 along with all course materials, by pulling from the [course GitHub
@@ -141,11 +140,10 @@ them to supplement your understanding!
 
 ### Discussions and Exam Prep
 
-Discussions will be held in-person on Mondays 4:00-4:50PM in Peterson Hall 103
-and Fridays 6:00-6:50PM in Peterson Hall 102. Discussion sections will be
-podcasted.
+Discussions will be held online on Wednesdays 5:00-6:50PM. Discussion sections will be
+recorded.
 
-**New**{: .label .label-green } In past offerings of DSC 80, students often
+In past offerings of DSC 80, students often
 wished for more opportunities to practice the types of questions that will be
 asked on the midterm and final exams. To address this, we will be using
 discussions as **exam prep**. In the Welcome Survey at the start of the quarter,
@@ -154,14 +152,14 @@ to opt in, discussions will be worth 5% of your overall
 grade. If you choose to opt out, discussion will be worth 0%, and your midterm
 and final exam grade will each be worth 2.5% more.
 
-In each discussion, the TA will prepare a worksheet of exam questions. You will
+In each discussion, the tutors will prepare a worksheet of exam questions. You will
 receive credit for discussion for a particular week if you attend the discussion
 in person and complete the worksheet. Attending at least 8 discussions during
 the 10-week quarter will earn full credit for discussion.
 
 ### Labs
 
-There will be **9 lab assignments** due weekly throughout the quarter. Each lab
+There will be **9 lab assignments** due twice weekly throughout the quarter. Each lab
 assignment will consist of a mixture of coding and free response questions.
 Coding questions will ask you to fill in the body of a function. Public tests
 are usually provided so that you can make sure that you\'re on the right track
@@ -169,8 +167,8 @@ are usually provided so that you can make sure that you\'re on the right track
 autograder with hidden tests.
 
 Each lab is worth the same amount, but the lowest lab will be dropped when
-calculating your final score. Labs will usually be released on Wednesdays and due on
-**Wednesdays at 11:59PM**.
+calculating your final score. Labs from Tuesdays will usually be released on Wednesdays and due on
+**Wednesdays at 11:59PM**. Labs from Thursdays will usually be released on Fridays and due on **Fridays at 11:59PM**
 
 You will access labs (and projects) by pulling the course GitHub repository.
 
@@ -183,16 +181,17 @@ science skills in practical situations. You can think of the projects as being
 mini-take-home-exams that track your _practical_ skills throughout the quarter
 (whereas the exams themselves test for conceptual understanding).
 
-Projects are due bi-weekly. However, the week _before_ a project is due, there
+Projects are due weekly. 
+
+<!-- However, the week _before_ a project is due, there
 will often be a _project checkpoint_. This checkpoint will ensure that you\'re
 on-track to complete the project on time, and should (hopefully) be a source of
-easy points.
+easy points. -->
 
-The Final Project will be due during finals week and can be thought of as a
+The Final Project will be due the day of the final and can be thought of as a
 practical component of the Final Exam.
 
-Note that, unlike labs, the lowest project score is not dropped. Projects and
-project checkpoints will usually be due on **Fridays at 11:59PM**.
+Note that, unlike labs, the lowest project score is not dropped. Projects will usually be due on **Saturdays at 11:59PM**.
 
 **Working in Pairs**
 
@@ -211,7 +210,7 @@ If you work with a partner:
 
 - Only one partner needs to submit the project on Gradescope; this partner
   should add the other partner to their submission.
-- You must also submit the checkpoint together.
+<!-- - You must also submit the checkpoint together. -->
 - You and your partner will receive the same score on any submissions you make
   together.
 
@@ -231,11 +230,11 @@ office hours and study groups.**
 ### Office Hours
 
 To get help on assignments and concepts, course staff will be hosting several
-office hours per week. All office hours will be held in person. See the
+office hours per week. All office hours will be held online. See the
 [Calendar](../calendar) tab of the course website for the most up-to-date
 schedule and instructions.
 
-### Weekly Schedule
+<!-- ### Weekly Schedule
 
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
@@ -244,7 +243,7 @@ schedule (which is subject to change in any given week):
 | ------ | ---------- | ------- | --------------------------------------------- | -------- | ------------------------------------------------- | -------- |
 |        |            | Lecture |                                               | Lecture  |                                                   |          |
 |        | Discussion |         |                                               |          | Discussion                                        |          |
-|        |            |         | <span style='color:red'><b>Lab due</b></span> |          | <span style='color:red'><b>Project due</b></span> |          |
+|        |            |         | <span style='color:red'><b>Lab due</b></span> |          | <span style='color:red'><b>Project due</b></span> |          | -->
 
 ---
 
@@ -253,10 +252,9 @@ schedule (which is subject to change in any given week):
 This class has one Midterm Exam and one Final Exam. Exams are cumulative,
 though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Midterm Exam**: Thursday, May 2nd, 9:30-10:50PM and 11:00AM-12:20PM in
-  Peterson 103 (during lecture)
+- **Midterm Exam**: Tuesday, July 20th, during the first half of lecture
 
-- **Final Exam:** Saturday, June 8th, 8AM-11AM. Location is TBD.
+- **Final Exam:** Saturday, September 7th, 7AM-10PM. Location is TBD.
 
 **Both exams will be administered in-person**. If you have conflicts with either
 of the exams, please let us know on the [Exam Accommodations
@@ -269,10 +267,7 @@ The Final Exam will consist of two parts: a “Midterm” section and a
 Exam than you did on the original Midterm Exam, your score on the “Midterm”
 section will replace your original Midterm Exam score. This lowers the stakes
 of the Midterm Exam and gives you two opportunities to demonstrate your
-understanding of the content from the first half of the course. This also means
-that you can miss the Midterm Exam for any reason and have the score be
-replaced by your score on the “Midterm” section of the Final Exam (though we do
-not recommend this).
+understanding of the content from the first half of the course. 
 
 **You must take the Final Exam to pass the course.**
 
@@ -288,9 +283,9 @@ Here is how we'll compute your grade:
 | ------------------- | ------ | -------------------------------------------------------------------------- |
 | Labs                | 20%    | 2.5% per lab, lowest dropped                                               |
 | Projects            | 25%    | 5% each for Projects 1-3, 10% for Project 4                                |
-| Project Checkpoints | 5%     | 1% each                                                                    |
-| Midterm Exam        | 20%    | see the Redemption Policy above                                            |
-| Final Exam          | 30%    |                                                                            |
+<!-- | Project Checkpoints | 5%     | 1% each                                                                    | -->
+| Midterm Exam        | 22.5%    | see the Redemption Policy above                                            |
+| Final Exam          | 32.5%    |                                                                            |
 | Lecture Attendance  | 0%     | If opted in, counts as 5% and reduces Midterm and Final Exam by 2.5% each. |
 | Discussion          | 0%     | If opted in, counts as 5% and reduces Midterm and Final Exam by 2.5% each. |
 
@@ -301,14 +296,14 @@ be considered on time. You may turn them in as many times as you like before the
 deadline and only the most recent submission will count, so it’s a good habit
 to submit early and often.
 
-**New**{: .label .label-green } We recognize that life is unpredictable, and
+We recognize that life is unpredictable, and
 that there are circumstances and emergencies that cannot be resolved
 immediately. To account for this, you may request an extension for labs and
 projects by filling out the [Extension Request Form][extension-request-form].
 Filling out this form will grant you a 2-day deadline extension for an
 assignment with no grade penalty. (We would like this process to be automatic,
 but for now it requires a staff member to manually update your due date on
-Gradescope.) We are using this policy instead of slip days this quarter to help
+Gradescope.) We are using this policy to help
 identify and support students who may be encountering difficult circumstances,
 so if we notice that you have used the form many times during the quarter,
 course staff will schedule a meeting with you to come up with a plan for
@@ -318,19 +313,18 @@ completing the rest of the course before approving further extension requests.
 Form before the assignment deadline, the submission will not be accepted and you
 will receive a 0.**
 
-Note that we will not grant deadline extensions for the Final Project deadline
-of June 8.
+Note that we will not grant deadline extensions for the Final Project deadline.
 
 ### Redemption Policy for Labs and Projects
 
-**New**{: .label .label-green } Labs 1-9 and Projects 1-3 have a redemption
+Labs 1-9 and Projects 1-3 have a redemption
 policy to make up for lost points on your original submission. After the
 original deadline passes for an assignment, we will publish the autograder
 result for your latest submission before the assignment deadline. You may then
 submit the assignment as many times as you'd like before the final exam to
 redeem up to 80% of the points you lost on the original submission.
 
-Example: Suppose that after grades were released for the Project 1 deadline, Sam
+Example: Suppose that after grades were released for the Project 1 deadline, Brendan
 receives a 90% since he lost points on a few hidden tests. He fixes the bugs,
 resubmits, and his new submission gets a 100%. His final grade for Project 1
 would then be 98% (0.8 \* (100% - 90%) + 90% = 98%).
