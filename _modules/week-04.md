@@ -1,41 +1,71 @@
 ---
-title: "Week 4 \u2013 Missing Values"
+title: "Week 4 \u2013 Text data, Modeling, Feature Engineering"
 weekNumber: 4
 days:
-  - date: '2024-04-23'
+  - date: '2024-08-27'
     events:
-      - name: LEC 7
+      - name: LEC 12
         type: lecture
-        title: Missingness Mechanisms
-        blank: resources/lectures/lec07/lec07-live.html
-        filled: resources/lectures/lec07/lec07.html
-        reading: '[Fast Permutation Tests](resources/lectures/lec07/lec07-fast-permutation-tests.html), [A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)'
-  - date: '2024-04-24'
+        title: Text Features
+        blank: resources/lectures/lec12/lec12-live.html
+        filled: resources/lectures/lec12/lec12.html
+        reading: '[Ch. 13.4](https://learningds.org/ch/13/text_sotu.html)'
+      - name: LEC 13
+        type: lecture
+        title: Linear Regression
+        blank: resources/lectures/lec13/lec13-live.html
+        filled: resources/lectures/lec13/lec13.html
+        reading: '[Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)'
+
+  - date: '2024-08-28'
     events:
-      - name: LAB 3
+      - name: LAB 6
         type: lab
-        title: DataFrame Manipulation
-        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab03
+        title: HTTP and HTML
+        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab06
         reading: ''
-  - date: '2024-04-25'
-    events:
-      - name: LEC 8
-        type: lecture
-        title: Imputation
-        blank: resources/lectures/lec08/lec08-live.html
-        filled: resources/lectures/lec08/lec08.html
-        reading: '[DSP 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)'
-  - date: '2024-04-26'
-    events:
-      - name: PROJ 2
+      - name: PROJ 3
         type: proj
-        title: Project 2 checkpoint
-        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/02-loan_applications
+        title: Project 3
         reading: ''
-      - name: DISC 4
+        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/03-language_models
+      - name: DISC 7
         type: disc
-        title: Exam Prep 4
-        reading: '[Slides](discussions/disc04/disc04_slides.pdf)'
-        blank: discussions/disc04/disc04_worksheet.pdf
-        filled: discussions/disc04/disc04_solutions.pdf
+        blank: discussions/disc07/disc07_worksheet.pdf
+        title: Exam Prep 7
+        reading: '[Slides](discussions/disc07/disc07.pdf)'
+
+  - date: '2024-08-29'
+    events:
+      - name: LEC 14
+        type: lecture
+        title: Feature Engineering
+        blank: resources/lectures/lec14/lec14-live.html
+        filled: resources/lectures/lec14/lec14.html
+        reading: '[Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)'
+      - name: LEC 15
+        type: lecture
+        title: Pipelines, Multicollinearity, and Generalization
+        blank: resources/lectures/lec15/lec15-live.html
+        filled: resources/lectures/lec15/lec15.html
+        podcast: https://www.youtube.com/watch?v=2H9vuv-5oVo
+        reading: '[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)'
+
+  - date: '2024-08-30'
+    events:
+      - name: LAB 7
+        type: lab
+        title: Regular Expressions and Text Data
+        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab07
+        reading: ''
+      - name: DISC 8
+        type: disc
+        title: Exam Prep 8
+        reading: '[Slides](discussions/disc08/disc08.pdf)'
+        blank: discussions/disc08/disc08_worksheet.pdf
+      # - name: FINAL PROJ
+      #   type: proj
+      #   title: Final Project Checkpoint 1
+      #   reading: ''
+      #   url: proj04
 ---

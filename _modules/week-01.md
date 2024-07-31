@@ -1,23 +1,22 @@
 ---
-title: 'Week 1 - From BabyPandas to Pandas'
+title: 'Week 1 - From BabyPandas to Pandas, Dataframes'
 weekNumber: 1
 days:
-  - date: '2024-04-02'
+  - date: '2024-08-06'
     events:
       - name: LEC 1
         type: lecture
         title: Introduction, Data Science Lifecycle
         filled: resources/lectures/lec01/lec01.html
         reading: '[Ch. 1](https://learningds.org/ch/01/lifecycle_intro.html)'
-  - date: '2024-04-04'
-    events:
       - name: LEC 2
         type: lecture
         title: DataFrame Fundamentals
         blank: resources/lectures/lec02/lec02-live.html
         filled: resources/lectures/lec02/lec02.html
         reading: '[Ch. 6, 6.1](https://learningds.org/ch/06/pandas_intro.html)'
-  - date: '2024-04-05'
+
+  - date: '2024-08-07'
     events:
       - name: DISC 1
         type: disc
@@ -25,4 +24,33 @@ days:
         blank: discussions/disc01/disc01_worksheet.pdf
         filled: discussions/disc01/disc01_worksheet_filled.pdf
         reading: ''
+
+  - date: '2024-08-08'
+    events:
+      - name: LEC 3
+        type: lecture
+        title: Aggregating
+        blank: resources/lectures/lec03/lec03-live.html
+        filled: resources/lectures/lec03/lec03.html
+        reading: '[Ch. 6.2](https://learningds.org/ch/06/pandas_aggregating.html)'
+      - name: LEC 4
+        type: lecture
+        title: Simpson's Paradox, Joining, Transforming
+        blank: resources/lectures/lec04/lec04-live.html
+        filled: resources/lectures/lec04/lec04.html
+        reading: '[Ch. 6.3-6.5](https://learningds.org/ch/06/pandas_joining.html)'
+
+  - date: '2024-08-09'
+      - name: DISC 2
+        type: disc
+        title: Exam Prep 2
+        reading: ''
+        blank: discussions/disc02/disc02_worksheet.pdf
+        filled: discussions/disc02/disc02_filled.pdf
+        reading: '[Slides](discussions/disc02/disc02_slides.pdf), [Video](https://youtu.be/PIedHIU_FIY)'
+      # - name: PROJ 1
+      #   type: proj
+      #   title: Project 1 checkpoint
+      #   url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/01-gradebook
+      #   reading: ''
 ---

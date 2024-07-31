@@ -10,21 +10,21 @@ nav_order: 6
 ## Instructor
 
 <div class="staffer">
-  <img class="staffer-image" src="/assets/staff-images/lau.jpg" alt="Sam Lau">
+  <img class="staffer-image" src="/assets/staff-images/bt.jpeg" alt="Brendan Tomoschuk">
 
   <div>
     <h3 class="staffer-name">
-      <a href="https://www.samlau.me/">Sam Lau</a>
+      <a href="https://www.linkedin.com/in/tomoschuk/">Brendan Tomoschuk</a>
     </h3>
 
     <!-- Contact Information -->
     <p>
-      <a href="mailto:lau@ucsd.edu">lau@ucsd.edu</a><br>
+      <a href="mailto:brtomoschuk@ucsd.edu">brtomoschuk@ucsd.edu</a><br>
     </p>
 
     <!-- Instructor Paragraph -->
     <p>
-    Sam Lau is an assistant teaching professor in the Halıcıoğlu Data Science Institute at UC San Diego. His research creates novel interfaces for learning and teaching data science, including the popular Pandas Tutor tool (<a href="https://pandastutor.com/" target="_blank">https://pandastutor.com/</a>) which serves over 40,000 people per year. He is the author of an introductory data science textbook called Learning Data Science, published by O’Reilly Media in 2023.
+    Brendan Tomoschuk is a senior data scientist at Cruise LLC and a lecturer in the Halıcıoğlu Data Science Institute at UC San Diego. He works on models and metrics for self-driving cars and teaches data science and statistics in his spare time. He completed his PhD at UC San Diego in Cognitive Psychology where his research focused on models and experimentation around bilingualism and second language learning.
     </p>
   </div>
 </div>
