@@ -7,13 +7,13 @@ days:
       - name: LEC 12
         type: lecture
         title: Text Features
-        blank: resources/lectures/lec12/lec12-live.html
+        # blank: resources/lectures/lec12/lec12-live.html
         # filled: resources/lectures/lec12/lec12.html
         reading: '[Ch. 13.4](https://learningds.org/ch/13/text_sotu.html)'
       - name: LEC 13
         type: lecture
         title: Linear Regression
-        blank: resources/lectures/lec13/lec13-live.html
+        # blank: resources/lectures/lec13/lec13-live.html
         # filled: resources/lectures/lec13/lec13.html
         reading: '[Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)'
 
@@ -31,7 +31,7 @@ days:
         url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/03-language_models
       - name: DISC 7
         type: disc
-        blank: discussions/disc07/disc07_worksheet.pdf
+        # blank: discussions/disc07/disc07_worksheet.pdf
         title: Exam Prep 7
         reading: '[Slides](discussions/disc07/disc07.pdf)'
 
@@ -40,13 +40,13 @@ days:
       - name: LEC 14
         type: lecture
         title: Feature Engineering
-        blank: resources/lectures/lec14/lec14-live.html
+        # blank: resources/lectures/lec14/lec14-live.html
         # filled: resources/lectures/lec14/lec14.html
         reading: '[Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)'
       - name: LEC 15
         type: lecture
         title: Pipelines, Multicollinearity, and Generalization
-        blank: resources/lectures/lec15/lec15-live.html
+        # blank: resources/lectures/lec15/lec15-live.html
         # filled: resources/lectures/lec15/lec15.html
         # podcast: https://www.youtube.com/watch?v=2H9vuv-5oVo
         reading: '[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)'
@@ -62,7 +62,7 @@ days:
         type: disc
         title: Exam Prep 8
         reading: '[Slides](discussions/disc08/disc08.pdf)'
-        blank: discussions/disc08/disc08_worksheet.pdf
+        # blank: discussions/disc08/disc08_worksheet.pdf
       # - name: FINAL PROJ
       #   type: proj
       #   title: Final Project Checkpoint 1

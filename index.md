@@ -16,7 +16,7 @@ nav_order: 1
 [syllabus]: syllabus
 [ed]: https://edstem.org/us/join/zk8hRm
 [gradescope]: https://www.gradescope.com/courses/698219
-[github]: https://github.com/dsc-courses/dsc80-2024-sp
+[github]: https://github.com/dsc-courses/dsc80-2024-ss2
 [welcome-survey]: https://forms.gle/zSYRnDK7wNUWehPh8
 [exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
 [extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9

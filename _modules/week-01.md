@@ -12,7 +12,7 @@ days:
       - name: LEC 2
         type: lecture
         title: DataFrame Fundamentals
-        blank: resources/lectures/lec02/lec02-live.html
+        # blank: resources/lectures/lec02/lec02-live.html
         # filled: resources/lectures/lec02/lec02.html
         reading: '[Ch. 6, 6.1](https://learningds.org/ch/06/pandas_intro.html)'
 
@@ -21,7 +21,7 @@ days:
       - name: DISC 1
         type: disc
         title: Environment Setup, Exam Prep 1
-        blank: discussions/disc01/disc01_worksheet.pdf
+        # blank: discussions/disc01/disc01_worksheet.pdf
         # filled: discussions/disc01/disc01_worksheet_filled.pdf
         reading: ''
 
@@ -30,22 +30,23 @@ days:
       - name: LEC 3
         type: lecture
         title: Aggregating
-        blank: resources/lectures/lec03/lec03-live.html
+        # blank: resources/lectures/lec03/lec03-live.html
         # filled: resources/lectures/lec03/lec03.html
         reading: '[Ch. 6.2](https://learningds.org/ch/06/pandas_aggregating.html)'
       - name: LEC 4
         type: lecture
         title: Simpson's Paradox, Joining, Transforming
-        blank: resources/lectures/lec04/lec04-live.html
+        # blank: resources/lectures/lec04/lec04-live.html
         # filled: resources/lectures/lec04/lec04.html
         reading: '[Ch. 6.3-6.5](https://learningds.org/ch/06/pandas_joining.html)'
 
   - date: '2024-08-09'
+    events:
       - name: DISC 2
         type: disc
         title: Exam Prep 2
         reading: ''
-        blank: discussions/disc02/disc02_worksheet.pdf
+        # blank: discussions/disc02/disc02_worksheet.pdf
         # filled: discussions/disc02/disc02_filled.pdf
         reading: '[Slides](discussions/disc02/disc02_slides.pdf), [Video](https://youtu.be/PIedHIU_FIY)'
       # - name: PROJ 1

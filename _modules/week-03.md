@@ -31,7 +31,7 @@ days:
         url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/02-loan_applications
       - name: DISC 5
         type: disc
-        blank: discussions/disc05/disc05_worksheet.pdf
+        # blank: discussions/disc05/disc05_worksheet.pdf
         # filled: discussions/disc05/disc05_filled.pdf
         title: Exam Prep 5
         reading: '[Slides](discussions/disc05/disc05.pdf), [Video](https://youtu.be/IFUWwKEfpio)'
@@ -41,14 +41,14 @@ days:
       - name: LEC 10
         type: lecture
         title: Web Scraping
-        blank: resources/lectures/lec10/lec10-live.html
+        # blank: resources/lectures/lec10/lec10-live.html
         # filled: resources/lectures/lec10/lec10.html
         reading: '[Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)'
         # podcast: https://youtu.be/ji-HZpaO5ng
       - name: LEC 11
         type: lecture
         title: Regular Expressions
-        blank: resources/lectures/lec11/lec11-live.html
+        # blank: resources/lectures/lec11/lec11-live.html
         # filled: resources/lectures/lec11/lec11.html
         reading: '[Ch. 13](https://learningds.org/ch/13/text_intro.html)'
 
@@ -62,7 +62,7 @@ days:
       - name: DISC 6
         type: disc
         title: Exam Prep 6
-        blank: discussions/disc06/disc06_worksheet.pdf
+        # blank: discussions/disc06/disc06_worksheet.pdf
         # filled: discussions/disc06/disc06_solutions.pdf
         reading: '[Slides](discussions/disc06/disc06.pdf)'
       # - name: PROJ 3

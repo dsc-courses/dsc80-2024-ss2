@@ -24,7 +24,7 @@ nav_order: 6
 
     <!-- Instructor Paragraph -->
     <p>
-    Brendan Tomoschuk is a senior data scientist at Cruise LLC and a lecturer in the Halıcıoğlu Data Science Institute at UC San Diego. He works on models and metrics for self-driving cars and teaches data science and statistics in his spare time. He completed his PhD at UC San Diego in Cognitive Psychology where his research focused on models and experimentation around bilingualism and second language learning.
+    Brendan Tomoschuk is a senior data scientist at Cruise and a lecturer in the Halıcıoğlu Data Science Institute at UC San Diego. He works on models and metrics for self-driving cars and teaches data science and statistics in his spare time. He completed his PhD at UC San Diego in Cognitive Psychology where his research focused on models and experimentation around bilingualism and second language learning.
     </p>
   </div>
 </div>
