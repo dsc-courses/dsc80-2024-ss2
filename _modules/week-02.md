@@ -2,6 +2,14 @@
 title: "Week 2 \u2013 Messy Data, Statistical Testing, Missing Values"
 weekNumber: 2
 days:
+  - date: '2024-08-12'
+    events:
+      - name: LAB 2
+        type: lab
+        title: More Pandas
+        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab02
+        reading: ''
+
   - date: '2024-08-13'
     events:
       - name: LEC 5
@@ -19,21 +27,17 @@ days:
 
   - date: '2024-08-14'
     events:
-      - name: LAB 2
-        type: lab
-        title: More Pandas
-        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab02
-        reading: ''
       - name: PROJ 1
         type: proj
         title: Project 1
         reading: ''
-      - name: DISC 3
+      - name: DISC 2
         type: disc
-        title: Exam Prep 3
+        title: Exam Prep
         # blank: discussions/disc03/disc03_worksheet.pdf
         # filled: discussions/disc03/disc03_solutions.pdf
-        reading: '[Slides](discussions/disc03/disc03_slides.pdf)'
+        # reading: '[Slides](discussions/disc03/disc03_slides.pdf)'
+        # reading: '[Slides](discussions/disc04/disc04_slides.pdf)'
 
   - date: '2024-08-15'
     events:
@@ -55,16 +59,5 @@ days:
       - name: LAB 3
         type: lab
         title: DataFrame Manipulation
-        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab03
-      # - name: PROJ 2
-      #   type: proj
-      #   title: Project 2 checkpoint
-      #   url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/02-loan_applications
-      #   reading: ''
-      - name: DISC 4
-        type: disc
-        title: Exam Prep 4
-        reading: '[Slides](discussions/disc04/disc04_slides.pdf)'
-        # blank: discussions/disc04/disc04_worksheet.pdf
-        # filled: discussions/disc04/disc04_solutions.pdf
+        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab03
 ---

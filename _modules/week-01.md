@@ -20,9 +20,10 @@ days:
     events:
       - name: DISC 1
         type: disc
-        title: Environment Setup, Exam Prep 1
+        title: Environment Setup, Exam Prep 1 + 2
         # blank: discussions/disc01/disc01_worksheet.pdf
         # filled: discussions/disc01/disc01_worksheet_filled.pdf
+        # reading: '[Slides](discussions/disc02/disc02_slides.pdf), [Video](https://youtu.be/PIedHIU_FIY)'
         reading: ''
 
   - date: '2024-08-08'
@@ -40,15 +41,16 @@ days:
         # filled: resources/lectures/lec04/lec04.html
         reading: '[Ch. 6.3-6.5](https://learningds.org/ch/06/pandas_joining.html)'
 
-  - date: '2024-08-09'
+  - date: '2024-08-14'
     events:
-      - name: DISC 2
-        type: disc
-        title: Exam Prep 2
-        reading: ''
+      - name: LAB 1
+        type: lab
+        title: Python, NumPy, and Pandas
+  #       type: disc
+  #       title: Exam Prep 2
+  #       reading: ''
         # blank: discussions/disc02/disc02_worksheet.pdf
         # filled: discussions/disc02/disc02_filled.pdf
-        reading: '[Slides](discussions/disc02/disc02_slides.pdf), [Video](https://youtu.be/PIedHIU_FIY)'
       # - name: PROJ 1
       #   type: proj
       #   title: Project 1 checkpoint

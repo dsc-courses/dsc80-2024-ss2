@@ -2,6 +2,15 @@
 title: "Week 4 \u2013 Text data, Modeling, Feature Engineering"
 weekNumber: 4
 days:
+
+  - date: '2024-08-26'
+    events:
+      - name: LAB 6
+        type: lab
+        title: HTTP and HTML
+        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab06
+        reading: ''
+
   - date: '2024-08-27'
     events:
       - name: LEC 12
@@ -19,21 +28,17 @@ days:
 
   - date: '2024-08-28'
     events:
-      - name: LAB 6
-        type: lab
-        title: HTTP and HTML
-        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab06
-        reading: ''
       - name: PROJ 3
         type: proj
         title: Project 3
         reading: ''
-        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/03-language_models
-      - name: DISC 7
+        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/03-language_models
+      - name: DISC 4
         type: disc
         # blank: discussions/disc07/disc07_worksheet.pdf
-        title: Exam Prep 7
-        reading: '[Slides](discussions/disc07/disc07.pdf)'
+        title: Exam Prep
+        # reading: '[Slides](discussions/disc07/disc07.pdf)'
+        # reading: '[Slides](discussions/disc08/disc08.pdf)'
 
   - date: '2024-08-29'
     events:
@@ -56,16 +61,6 @@ days:
       - name: LAB 7
         type: lab
         title: Regular Expressions and Text Data
-        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab07
+        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab07
         reading: ''
-      - name: DISC 8
-        type: disc
-        title: Exam Prep 8
-        reading: '[Slides](discussions/disc08/disc08.pdf)'
-        # blank: discussions/disc08/disc08_worksheet.pdf
-      # - name: FINAL PROJ
-      #   type: proj
-      #   title: Final Project Checkpoint 1
-      #   reading: ''
-      #   url: proj04
 ---

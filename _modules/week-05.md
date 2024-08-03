@@ -2,6 +2,14 @@
 title: "Week 5 \u2013 Modeling in Practice, Evaluating classifiers"
 weekNumber: 5
 days:
+  - date: '2024-09-02'
+    events:
+      - name: LAB 8
+        type: lab
+        title: Modeling and Feature Engineering
+        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab08
+        reading: ''
+
   - date: '2024-09-03'
     events:
       - name: LEC 16
@@ -18,14 +26,9 @@ days:
         reading: ''
   - date: '2024-09-04'
     events:
-      - name: LAB 8
-        type: lab
-        title: Modeling and Feature Engineering
-        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab08
-        reading: ''
-      - name: DISC 9
+      - name: DISC 5
         type: disc
-        title: Exam Prep 9
+        title: Exam Prep
         # blank: discussions/disc09/disc09_worksheet.pdf
         reading: '[Slides](discussions/disc09/disc09.pdf)'
       # - name: FINAL PROJ
@@ -54,11 +57,7 @@ days:
       - name: LAB 9
         type: lab
         title: Pipelines
-        url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab09
-        reading: ''
-      - name: DISC 10
-        type: disc
-        title: Exam Prep 10
+        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab09
         reading: ''
 
   - date: '2024-09-07'
