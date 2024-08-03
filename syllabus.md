@@ -18,9 +18,9 @@ nav_order: 2
 [ed]: https://edstem.org/us/join/4h4tbM
 [gradescope]: https://www.gradescope.com/courses/813901
 [github]: https://github.com/dsc-courses/dsc80-2024-ss2
-<!-- [welcome-survey]: https://forms.gle/zSYRnDK7wNUWehPh8 -->
-<!-- [exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5 -->
-<!-- [extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9 -->
+[welcome-survey]: https://forms.gle/zSYRnDK7wNUWehPh8
+[exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
+[extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9
 
 ## About 🧐
 
@@ -300,7 +300,7 @@ We recognize that life is unpredictable, and
 that there are circumstances and emergencies that cannot be resolved
 immediately. To account for this, you may request an extension for labs and
 projects by filling out the [Extension Request Form][extension-request-form].
-Filling out this form will grant you a 2-day deadline extension for an
+Filling out this form will grant you a 1-day deadline extension for an
 assignment with no grade penalty. (We would like this process to be automatic,
 but for now it requires a staff member to manually update your due date on
 Gradescope.) We are using this policy to help
