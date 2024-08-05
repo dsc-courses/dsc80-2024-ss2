@@ -191,7 +191,7 @@ easy points. -->
 The Final Project will be due the day of the final and can be thought of as a
 practical component of the Final Exam.
 
-Note that, unlike labs, the lowest project score is not dropped. Projects will usually be due on **Saturdays at 11:59PM**.
+Note that, unlike labs, the lowest project score is not dropped. Projects will usually be due on **Wednesdays at 11:59PM**.
 
 **Working in Pairs**
 
@@ -283,7 +283,6 @@ Here is how we'll compute your grade:
 | ------------------- | ------ | -------------------------------------------------------------------------- |
 | Labs                | 20%    | 2.5% per lab, lowest dropped                                               |
 | Projects            | 25%    | 5% each for Projects 1-3, 10% for Project 4                                |
-<!-- | Project Checkpoints | 5%     | 1% each                                                                    | -->
 | Midterm Exam        | 22.5%    | see the Redemption Policy above                                            |
 | Final Exam          | 32.5%    |                                                                            |
 | Lecture Attendance  | 0%     | If opted in, counts as 5% and reduces Midterm and Final Exam by 2.5% each. |
