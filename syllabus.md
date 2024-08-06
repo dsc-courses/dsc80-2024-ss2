@@ -18,9 +18,9 @@ nav_order: 2
 [ed]: https://edstem.org/us/join/4h4tbM
 [gradescope]: https://www.gradescope.com/courses/813901
 [github]: https://github.com/dsc-courses/dsc80-2024-ss2
-[welcome-survey]: https://forms.gle/zSYRnDK7wNUWehPh8
-[exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
-[extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9
+[welcome-survey]: https://docs.google.com/forms/d/1Qqp2X5mBOYrukbomgCT6K902j3tX_wU8i5eOopw5N2k/
+<!-- [exam-accommodations]: www.google.com -->
+<!-- [extension-request-form]: www.google.com -->
 
 ## About 🧐
 

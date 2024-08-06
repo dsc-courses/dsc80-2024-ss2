@@ -17,9 +17,9 @@ nav_order: 1
 [ed]: https://edstem.org/us/join/zk8hRm
 [gradescope]: https://www.gradescope.com/courses/698219
 [github]: https://github.com/dsc-courses/dsc80-2024-ss2
-[welcome-survey]: https://forms.gle/zSYRnDK7wNUWehPh8
-[exam-accommodations]: https://forms.gle/rSUYPsHdmxTN9qYv5
-[extension-request-form]: https://forms.gle/yK1tcVZRpxHPBN1w9
+[welcome-survey]: https://docs.google.com/forms/d/1Qqp2X5mBOYrukbomgCT6K902j3tX_wU8i5eOopw5N2k/
+<!-- [exam-accommodations]: www.google.com -->
+<!-- [extension-request-form]: www.google.com -->
 
 <!-- [Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green } -->
 
