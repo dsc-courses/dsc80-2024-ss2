@@ -17,7 +17,7 @@ nav_order: 1
 [ed]: https://edstem.org/us/join/zk8hRm
 [gradescope]: https://www.gradescope.com/courses/698219
 [github]: https://github.com/dsc-courses/dsc80-2024-ss2
-[welcome-survey]: https://docs.google.com/forms/d/1Qqp2X5mBOYrukbomgCT6K902j3tX_wU8i5eOopw5N2k/
+[welcome-survey]: https://forms.gle/BM2xyaXbVSjdV6Vp8
 <!-- [exam-accommodations]: www.google.com -->
 <!-- [extension-request-form]: www.google.com -->
 
