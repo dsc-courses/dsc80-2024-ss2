@@ -42,7 +42,7 @@ days:
         # filled: resources/lectures/lec04/lec04.html
         reading: '[Ch. 6.3-6.5](https://learningds.org/ch/06/pandas_joining.html)'
 
-  - date: '2024-08-14'
+  - date: '2024-08-09'
     events:
       - name: LAB 1
         type: lab
