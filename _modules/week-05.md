@@ -62,10 +62,6 @@ days:
 
   - date: '2024-09-07'
     events:
-      - name: DISC 10
-        type: disc
-        title: Exam Prep 10
-        reading: ''
       - name: EXAM
         type: exam
         title: Final Exam
