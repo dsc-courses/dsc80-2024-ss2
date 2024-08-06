@@ -140,8 +140,7 @@ them to supplement your understanding!
 
 ### Discussions and Exam Prep
 
-Discussions will be held **in person** on Wednesdays 5:00-6:50PM. Discussion sections will be
-recorded.
+Discussions will be held **in person** on Wednesdays 5:00-6:50PM.
 
 In past offerings of DSC 80, students often
 wished for more opportunities to practice the types of questions that will be
@@ -167,8 +166,8 @@ are usually provided so that you can make sure that you\'re on the right track
 autograder with hidden tests.
 
 Each lab is worth the same amount, but the lowest lab will be dropped when
-calculating your final score. Labs from Tuesdays will usually be released on Wednesdays and due on
-**Wednesdays at 11:59PM**. Labs from Thursdays will usually be released on Fridays and due on **Fridays at 11:59PM**
+calculating your final score. Labs from Tuesdays will usually be released on Tuesdays and due on
+**Fridays at 11:59PM**. Labs from Thursdays will usually be released on Thursdays and due on **Mondays at 11:59PM**
 
 You will access labs (and projects) by pulling the course GitHub repository.
 
@@ -182,11 +181,6 @@ mini-take-home-exams that track your _practical_ skills throughout the quarter
 (whereas the exams themselves test for conceptual understanding).
 
 Projects are due weekly. 
-
-<!-- However, the week _before_ a project is due, there
-will often be a _project checkpoint_. This checkpoint will ensure that you\'re
-on-track to complete the project on time, and should (hopefully) be a source of
-easy points. -->
 
 The Final Project will be due the day of the final and can be thought of as a
 practical component of the Final Exam.
@@ -252,7 +246,7 @@ schedule (which is subject to change in any given week):
 This class has one Midterm Exam and one Final Exam. Exams are cumulative,
 though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Midterm Exam**: Tuesday, July 20th, during the first half of lecture
+- **Midterm Exam**: Tuesday, August 20th, during the first half of lecture
 
 - **Final Exam:** Saturday, September 7th, 7AM-10PM. Location is TBD.
 
