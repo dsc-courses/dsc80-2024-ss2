@@ -140,7 +140,7 @@ them to supplement your understanding!
 
 ### Discussions and Exam Prep
 
-Discussions will be held online on Wednesdays 5:00-6:50PM. Discussion sections will be
+Discussions will be held **in person** on Wednesdays 5:00-6:50PM. Discussion sections will be
 recorded.
 
 In past offerings of DSC 80, students often
