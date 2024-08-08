@@ -19,8 +19,7 @@ nav_order: 2
 [gradescope]: https://www.gradescope.com/courses/813901
 [github]: https://github.com/dsc-courses/dsc80-2024-ss2
 [welcome-survey]: https://forms.gle/BM2xyaXbVSjdV6Vp8
-<!-- [exam-accommodations]: www.google.com -->
-<!-- [extension-request-form]: www.google.com -->
+[extension-request-form]: https://forms.gle/qWgKjJ3vuQJjqfJR8
 
 ## About 🧐
 
