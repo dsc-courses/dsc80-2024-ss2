@@ -38,7 +38,7 @@ days:
       - name: LEC 4
         type: lecture
         title: Simpson's Paradox, Joining, Transforming
-        # blank: resources/lectures/lec04/lec04-live.html
+        blank: resources/lectures/lec04/lec04.html
         # filled: resources/lectures/lec04/lec04.html
         reading: '[Ch. 6.3-6.5](https://learningds.org/ch/06/pandas_joining.html)'
 
