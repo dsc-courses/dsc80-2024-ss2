@@ -34,6 +34,7 @@ days:
       - name: DISC 2
         type: disc
         title: Exam Prep
+        url: https://github.com/dsc-courses/dsc80-2024-ss2/tree/main/projects/01-gradebook
         # blank: discussions/disc03/disc03_worksheet.pdf
         # filled: discussions/disc03/disc03_solutions.pdf
         # reading: '[Slides](discussions/disc03/disc03_slides.pdf)'
