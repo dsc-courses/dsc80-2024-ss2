@@ -33,13 +33,13 @@ days:
         type: lecture
         title: Aggregating
         blank: resources/lectures/lec03/lec03.html
-        # filled: resources/lectures/lec03/lec03.html
+        filled: resources/lectures/lec03/lec03_filled.html
         reading: '[Ch. 6.2](https://learningds.org/ch/06/pandas_aggregating.html)'
       - name: LEC 4
         type: lecture
         title: Simpson's Paradox, Joining, Transforming
         blank: resources/lectures/lec04/lec04.html
-        # filled: resources/lectures/lec04/lec04.html
+        filled: resources/lectures/lec04/lec04_filled.html
         reading: '[Ch. 6.3-6.5](https://learningds.org/ch/06/pandas_joining.html)'
 
   - date: '2024-08-09'
