@@ -60,5 +60,5 @@ days:
       - name: LAB 3
         type: lab
         title: DataFrame Manipulation
-        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab03
+        url: https://github.com/dsc-courses/dsc80-2024-ss2/tree/main/labs/lab03
 ---
