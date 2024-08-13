@@ -15,13 +15,13 @@ days:
       - name: LEC 5
         type: lecture
         title: Exploring and Cleaning Data
-        # blank: resources/lectures/lec05/lec05-live.html
+        blank: resources/lectures/lec05/lec05.html
         # filled: resources/lectures/lec05/lec05.html
         reading: '[Ch. 9](https://learningds.org/ch/09/wrangling_intro.html) and [10](https://learningds.org/ch/10/eda_intro.html)'
       - name: LEC 6
         type: lecture
         title: Hypothesis and Permutation Testing
-        # blank: resources/lectures/lec06/lec06-live.html
+        blank: resources/lectures/lec06/lec06.html
         # filled: resources/lectures/lec06/lec06.html
         reading: '[DSC 10 Review Notebook](resources/lectures/lec06/pre-lec06.html), [Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
 
