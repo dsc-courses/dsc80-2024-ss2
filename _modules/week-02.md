@@ -35,8 +35,8 @@ days:
       - name: DISC 2
         type: disc
         title: Exam Prep
-        # blank: discussions/disc03/disc03_worksheet.pdf
-        # filled: discussions/disc03/disc03_solutions.pdf
+        blank: discussions/disc02/disc02_worksheet.pdf
+        filled: discussions/disc02/disc02_filled.pdf
         # reading: '[Slides](discussions/disc03/disc03_slides.pdf)'
         # reading: '[Slides](discussions/disc04/disc04_slides.pdf)'
 
