@@ -31,7 +31,7 @@ days:
         type: proj
         title: Project 2
         reading: ''
-        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/02-loan_applications
+        url: https://github.com/dsc-courses/dsc80-2024-ss2/tree/main/projects/02-loan_applications
       - name: DISC 3
         type: disc
         # blank: discussions/disc05/disc05_worksheet.pdf
