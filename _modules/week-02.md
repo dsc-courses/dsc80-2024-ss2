@@ -7,7 +7,7 @@ days:
       - name: LAB 2
         type: lab
         title: More Pandas
-        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab02
+        url: https://github.com/dsc-courses/dsc80-2024-ss2/tree/main/labs/lab02
         reading: ''
 
   - date: '2024-08-13'
@@ -15,14 +15,14 @@ days:
       - name: LEC 5
         type: lecture
         title: Exploring and Cleaning Data
-        # blank: resources/lectures/lec05/lec05-live.html
-        # filled: resources/lectures/lec05/lec05.html
+        blank: resources/lectures/lec05/lec05.html
+        filled: resources/lectures/lec05/lec05-filled.html
         reading: '[Ch. 9](https://learningds.org/ch/09/wrangling_intro.html) and [10](https://learningds.org/ch/10/eda_intro.html)'
       - name: LEC 6
         type: lecture
         title: Hypothesis and Permutation Testing
-        # blank: resources/lectures/lec06/lec06-live.html
-        # filled: resources/lectures/lec06/lec06.html
+        blank: resources/lectures/lec06/lec06.html
+        filled: resources/lectures/lec06/lec06-filled.html
         reading: '[DSC 10 Review Notebook](resources/lectures/lec06/pre-lec06.html), [Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
 
   - date: '2024-08-14'
@@ -60,5 +60,5 @@ days:
       - name: LAB 3
         type: lab
         title: DataFrame Manipulation
-        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab03
+        url: https://github.com/dsc-courses/dsc80-2024-ss2/tree/main/labs/lab03
 ---
