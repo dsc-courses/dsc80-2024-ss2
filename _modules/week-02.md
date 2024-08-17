@@ -45,13 +45,13 @@ days:
       - name: LEC 7
         type: lecture
         title: Missingness Mechanisms
-        # blank: resources/lectures/lec07/lec07-live.html
+        blank: resources/lectures/lec07/lec07.html
         # filled: resources/lectures/lec07/lec07.html
         reading: '[Fast Permutation Tests](resources/lectures/lec07/lec07-fast-permutation-tests.html), [A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)'
       - name: LEC 8
         type: lecture
         title: Imputation
-        # blank: resources/lectures/lec08/lec08-live.html
+        blank: resources/lectures/lec08/lec08.html
         # filled: resources/lectures/lec08/lec08.html
         reading: '[DSP 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)'
 
