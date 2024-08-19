@@ -12,18 +12,18 @@ days:
 
   - date: '2024-08-20'
     events:
+      - name: EXAM
+        type: exam
+        title: Midterm Exam (in class)
+        # blank: resources/exams/midterm.pdf
+        # filled: resources/exams/SOLUTIONS-midterm.pdf
+        # reading: '[Info Sheet for Midterm](resources/exams/midterm-info.pdf)'
       - name: LEC 9
         type: lecture
         title: HTTP Basics
         # blank: resources/lectures/lec09/lec09-live.html
         # filled: resources/lectures/lec09/lec09.html
         reading: '[Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)'
-      - name: EXAM
-        type: exam
-        title: Midterm Exam (in class)
-        # blank: resources/exams/midterm.pdf
-        # filled: resources/exams/SOLUTIONS-midterm.pdf
-        reading: '[Info Sheet for Midterm](resources/exams/midterm-info.pdf)'
 
   - date: '2024-08-21'
     events:
