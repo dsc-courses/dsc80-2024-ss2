@@ -32,7 +32,7 @@ days:
         type: proj
         title: Project 3
         reading: ''
-        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/projects/03-language_models
+        url: https://github.com/dsc-courses/dsc80-2024-ss2/tree/main/projects/03-language_models
       - name: DISC 4
         type: disc
         # blank: discussions/disc07/disc07_worksheet.pdf
