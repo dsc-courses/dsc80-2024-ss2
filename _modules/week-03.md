@@ -34,8 +34,8 @@ days:
         url: https://github.com/dsc-courses/dsc80-2024-ss2/tree/main/projects/02-loan_applications
       - name: DISC 3
         type: disc
-        # blank: discussions/disc05/disc05_worksheet.pdf
-        # filled: discussions/disc05/disc05_filled.pdf
+        blank: discussions/disc03/disc03_worksheet.pdf
+        filled: discussions/disc03/disc03_solutions.pdf
         title: Exam Prep
         # reading: '[Slides](discussions/disc05/disc05.pdf), [Video](https://youtu.be/IFUWwKEfpio)'
         # reading: '[Slides](discussions/disc06/disc06.pdf)'
