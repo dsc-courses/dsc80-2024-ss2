@@ -45,14 +45,14 @@ days:
       - name: LEC 10
         type: lecture
         title: Web Scraping
-        # blank: resources/lectures/lec10/lec10-live.html
+        blank: resources/lectures/lec10/lec10.html
         # filled: resources/lectures/lec10/lec10.html
         reading: '[Ch. 14.2-14.4](https://learningds.org/ch/14/web_json.html)'
         # podcast: https://youtu.be/ji-HZpaO5ng
       - name: LEC 11
         type: lecture
         title: Regular Expressions
-        # blank: resources/lectures/lec11/lec11-live.html
+        blank: resources/lectures/lec11/lec11.html
         # filled: resources/lectures/lec11/lec11.html
         reading: '[Ch. 13](https://learningds.org/ch/13/text_intro.html)'
 
