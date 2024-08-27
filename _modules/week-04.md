@@ -16,13 +16,13 @@ days:
       - name: LEC 12
         type: lecture
         title: Text Features
-        # blank: resources/lectures/lec12/lec12-live.html
+        blank: resources/lectures/lec12/lec12.html
         # filled: resources/lectures/lec12/lec12.html
         reading: '[Ch. 13.4](https://learningds.org/ch/13/text_sotu.html)'
       - name: LEC 13
         type: lecture
         title: Linear Regression
-        # blank: resources/lectures/lec13/lec13-live.html
+        blank: resources/lectures/lec13/lec13.html
         # filled: resources/lectures/lec13/lec13.html
         reading: '[Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)'
 
