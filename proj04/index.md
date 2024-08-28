@@ -28,7 +28,7 @@ Final Project worth 10% in your overall grade, which means it's worth double wha
 As your final deliverables, you'll submit two things to us: a **public-facing website** as well as a **PDF of your Jupyter Notebook**. We encourage you to build something you are proud of as this will give you something concrete to put on your resume and show to potential employers!
 
 {: .green }
-> **Final Project is due on Saturday, September 7th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.<br><br>
+> **Final Project is due on Saturday, September 7th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. <br><br>
 <!-- > The Final Project does also have two checkpoints, which is due on **Friday, May 24th** and **Friday, May 31st**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#checkpoint-submission) towards the bottom of this page. You can submit the [checkpoint 1](https://www.gradescope.com/courses/759147/assignments/4503144/) and [checkpoint 2](https://www.gradescope.com/courses/759147/assignments/4509099/) on Gradescope; make sure to tag your partner if you have one. -->
 
 The project is broken into two parts:
@@ -75,7 +75,7 @@ Before choosing a dataset, read the rest of this page to see what's required of 
 
 Before beginning your analysis, you'll need to set up a few things.
 
-1. Pull the latest version of the [`dsc80-2024-sp`](https://github.com/dsc-courses/dsc80-2024-sp/) repo. Within the `projects/proj04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2024-sp/blob/main/projects/04-The%20Data%20Science%20Lifecycle/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2024-ss2`](https://github.com/dsc-courses/dsc80-2024-ss2/) repo. Within the `projects/proj04` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2024-ss2/blob/main/projects/04-The%20Data%20Science%20Lifecycle/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 1. Select **one** of the three [datasets mentioned above](#choosing-a-dataset), download it, and load it into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
@@ -182,7 +182,7 @@ If you'd like to follow the official [GitHub Pages & Jekyll](https://docs.github
 
 1. Create a GitHub account, if you don't already have one.
 1. Create a new GitHub repository for your project.
-   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/dsc-courses/dsc80-2024-sp](https://github.com/dsc-courses/dsc80-2024-sp) is [dsc-courses.github.io/dsc80-2024-sp](https://dsc-courses.github.io/dsc80-2024-sp)).
+   - GitHub Pages sites live at `<username>.github.io/<reponame>` (for instance, the site for [github.com/dsc-courses/dsc80-2024-ss2](https://github.com/dsc-courses/dsc80-2024-ss2) is [dsc-courses.github.io/dsc80-2024-ss2](https://dsc-courses.github.io/dsc80-2024-ss2)).
    - As such, **don't** include "DSC 80" or "Final Project" in your repo's name – this looks unprofessional to future employers, and gives you a generic-sounding URL. Instead, mention that this is a project for DSC 80 at UCSD in the repository description.
    - **Make sure to make your repository public.**
    - Select "ADD a README file." This ensures that your repository starts off non-empty, which is necessary to continue.
@@ -224,7 +224,7 @@ Note that you're free to use any Jekyll theme, not just the ones that appear [he
 
 ### Step 3: Embedding Content
 
-Now comes the interesting part – actually including content in your site. The [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) contains tips on how to format text and other page components in Markdown (and if you'd benefit by seeing an example, you could always look at the Markdown source of [this very page](https://raw.githubusercontent.com/dsc-courses/dsc80-2024-sp/gh-pages/project4/index.md) – meta!).
+Now comes the interesting part – actually including content in your site. The [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) contains tips on how to format text and other page components in Markdown (and if you'd benefit by seeing an example, you could always look at the Markdown source of [this very page](https://raw.githubusercontent.com/dsc-courses/dsc80-2024-ss2/gh-pages/project4/index.md) – meta!).
 
 What will be a bit trickier is embedding `plotly` plots in your site so that they are interactive. Note that you are **required** to do this, you cannot simply take screenshots of plots from your notebooks and embed them in your site. Here's how to embed a `plotly` plot directly in your site.
 
