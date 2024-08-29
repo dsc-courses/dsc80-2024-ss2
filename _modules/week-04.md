@@ -46,13 +46,13 @@ days:
       - name: LEC 14
         type: lecture
         title: Feature Engineering
-        # blank: resources/lectures/lec14/lec14-live.html
+        blank: resources/lectures/lec14/lec14.html
         # filled: resources/lectures/lec14/lec14.html
         reading: '[Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)'
       - name: LEC 15
         type: lecture
         title: Pipelines, Multicollinearity, and Generalization
-        # blank: resources/lectures/lec15/lec15-live.html
+        blank: resources/lectures/lec15/lec15.html
         # filled: resources/lectures/lec15/lec15.html
         # podcast: https://www.youtube.com/watch?v=2H9vuv-5oVo
         reading: '[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)'
