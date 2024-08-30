@@ -7,7 +7,7 @@ days:
       - name: LAB 8
         type: lab
         title: Modeling and Feature Engineering
-        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab08
+        url: https://github.com/dsc-courses/dsc80-2024-ss2/tree/main/labs/lab08
         reading: ''
 
   - date: '2024-09-03'
