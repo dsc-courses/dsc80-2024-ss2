@@ -57,7 +57,7 @@ days:
       - name: LAB 9
         type: lab
         title: Pipelines
-        # url: https://github.com/dsc-courses/dsc80-2024-sp/tree/main/labs/lab09
+        url: https://github.com/dsc-courses/dsc80-2024-ss2/tree/main/labs/lab09
         reading: ''
 
   - date: '2024-09-07'
