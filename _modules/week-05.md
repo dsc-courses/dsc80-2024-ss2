@@ -29,7 +29,7 @@ days:
       - name: DISC 5
         type: disc
         title: Exam Prep
-        # blank: discussions/disc09/disc09_worksheet.pdf
+        blank: discussions/disc05/disc05_worksheet.pdf
         reading: '[Slides](discussions/disc09/disc09.pdf)'
       # - name: FINAL PROJ
       #   type: proj
