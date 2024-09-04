@@ -42,13 +42,13 @@ days:
       - name: LEC 18
         type: lecture
         title: Classifier Evaluation and Model Fairness
-        # blank: resources/lectures/lec18/lec18-live.html
+        blank: resources/lectures/lec18/lec18.html
         # filled: resources/lectures/lec18/lec18.html
         reading: '[Ch. 19.5](https://learningds.org/ch/19/class_dr.html)'
       - name: LEC 19
         type: lecture
         title: Career Advice, Review, Conclusion
-        # blank: resources/lectures/lec19/lec19-live.html
+        blank: resources/lectures/lec19/lec19.html
         # filled: resources/lectures/lec19/lec19.html
         reading: ''
 
