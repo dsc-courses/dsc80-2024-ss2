@@ -30,6 +30,7 @@ days:
         type: disc
         title: Exam Prep
         blank: discussions/disc05/disc05_worksheet.pdf
+        filled: discussions/disc05/disc05_solutions.pdf
         reading: '[Slides](discussions/disc09/disc09.pdf)'
       # - name: FINAL PROJ
       #   type: proj
